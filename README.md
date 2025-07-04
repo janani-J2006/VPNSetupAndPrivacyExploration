@@ -14,12 +14,6 @@ Understand the role of VPNs in protecting privacy and secure communication.
 6. Disconnected VPN and compared IP and browsing speed.
 7. Researched VPN benefits and limitations.
 
-## VPN Connection Screenshots
-### Before connecting to VPN:
-![Before VPN](screenshots/before_vpn.png)
-
-### After connecting to VPN:
-![After VPN](screenshots/after_vpn.png)
 
 ## VPN Summary
 
